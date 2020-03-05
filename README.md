@@ -1,3 +1,1 @@
 # metaweather_api
-
-This does not include all the required dependencies etc ... 
