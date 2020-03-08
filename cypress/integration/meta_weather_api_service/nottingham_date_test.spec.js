@@ -32,7 +32,7 @@ describe('Testing of the Meta Weather API (Nottingham):', () => {
    .should('not.be.empty');
  })
 
- it('Nottingham + Tomorow => Validate that the response length is greater than 2:', () => {
+ it('Nottingham + Tomorow => Validate that the body length is greater than 2:', () => {
   response = cy.request(nottingham_url)
   response.its('body.length')
    .should('be.gt', 2)
