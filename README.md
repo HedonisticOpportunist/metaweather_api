@@ -25,5 +25,4 @@ In order to the tests, you either select 'Run all specs' or click on the specifi
 
 ## Issues and Bugs 
 
-As setting up Node.js and Cypress took up the longest (issues with sudo and folder permissions), I was not able to find a reliable way on how to test the data returned from the response. Several attempts were made, but investigation / time would be required. 
-
+As setting up Node.js and Cypress took up the longest (issues with sudo and folder permissions), I was not able to find a reliable way on how to test the data returned from the response. Several attempts were made, but more investigation / time would be required which the week during this was implemented did not allow (vet visits and subsequent kitty babysitting). 
