@@ -14,4 +14,4 @@ This should Cypress for you with the following screen:
 
 ![Tests in Cypress:](https://github.com/HedonisticOpportunist/metaweather_api/blob/master/pic.png)
 
-In order to the tests, you either select 'Run all Tests' or click on the specific test you wish to run. 
+In order to the tests, you either select 'Run all specs' or click on the specific test you wish to run. 
