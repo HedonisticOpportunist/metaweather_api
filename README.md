@@ -9,3 +9,5 @@ Afterwards, depending on where the directory with the tests is located, run the 
 
 cd xxx/meta_weather_api/
 node_modules/.bin/cypress open
+
+(/images/logo.png)
