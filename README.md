@@ -10,4 +10,4 @@ Afterwards, depending on where the directory with the tests is located, run the 
 cd xxx/meta_weather_api/
 node_modules/.bin/cypress open
 
-(https://github.com/HedonisticOpportunist/metaweather_api/blob/master/pic.png)
+![Tests in Cypress:](https://github.com/HedonisticOpportunist/metaweather_api/blob/master/pic.png)
