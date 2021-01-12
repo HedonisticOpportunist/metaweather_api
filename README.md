@@ -1,4 +1,4 @@
-# metaweather_api
+# metaweather_api_test_suite
 
 ## Background 
 
